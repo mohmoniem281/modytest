@@ -1,5 +1,5 @@
 from distutils.core import setup
-import Request
+import requests
 import os
 
 
